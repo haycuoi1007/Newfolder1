@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 thay doi lan 1
+=======
+thay doi lan 1
+thay doi lan 2
+>>>>>>> fe37777cd376639d47b3ef903b2ceb4a2c76fe67
